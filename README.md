@@ -1,4 +1,4 @@
-# Círio Map
+# CírioApp
 
 Aplicativo mobile desenvolvido em Flutter utilizando Google Maps e geolocalização para exibir informações relacionadas ao Círio de Nazaré.
 
