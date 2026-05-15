@@ -13,7 +13,8 @@ O projeto apresenta:
 
 # Demonstração
 
-<img width="400" height="822" alt="cirioApp" src="https://github.com/user-attachments/assets/1079e5a4-6889-4c23-a79e-c9f22d1feae3" />
+<img width="540" height="1110" alt="cirioApp_50porcento_GIF" src="https://github.com/user-attachments/assets/36c3b695-74cb-4d5d-a7d8-9e9486aa2a1b" />
+
 
 
 ---
