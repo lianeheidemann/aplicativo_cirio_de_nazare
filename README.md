@@ -12,11 +12,10 @@
 
 ---
 
-## Sobre o Projeto
+## Sobre o App
 
 O **CírioApp** é um aplicativo de mapa interativo que permite aos fiéis e participantes acompanhar as rotas oficiais do Círio de Nazaré em tempo real. Com geolocalização integrada e visualização via Google Maps, o app orienta o usuário desde a sua posição atual até os pontos centrais do evento.
 
-Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de **Desenvolvimento Mobile**.
 
 ---
 
@@ -144,16 +143,3 @@ dev_dependencies:
 
 ---
 
-## 🎯 Sobre o Círio de Nazaré
-
-O **Círio de Nazaré** é a maior procissão religiosa do mundo, realizada anualmente em outubro na cidade de Belém, Pará. Milhões de fiéis acompanham a trasladação da imagem de Nossa Senhora de Nazaré pelas ruas da cidade. O evento foi reconhecido pela **UNESCO** como Patrimônio Cultural Imaterial da Humanidade.
-
----
-
-## 👩‍💻 Autora
-
-**Liane Heidemann**
-
-Projeto acadêmico desenvolvido para a disciplina de **Desenvolvimento Mobile**.
-
----
