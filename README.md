@@ -35,10 +35,9 @@ O **CírioApp** é um aplicativo de mapa interativo que permite aos fiéis e par
 
 ## Tecnologias Utilizadas
 
-- **[Flutter](https://flutter.dev/)** — SDK de desenvolvimento mobile multiplataforma
-- **[Dart](https://dart.dev/)** — Linguagem de programação
-- **[google_maps_flutter ^2.6.0](https://pub.dev/packages/google_maps_flutter)** — Integração com Google Maps
-- **[geolocator ^11.0.0](https://pub.dev/packages/geolocator)** — Acesso à localização GPS do dispositivo
+- Flutter
+- Dart](https://dart.dev/)**
+- google_maps_flutter 
 
 ---
 
@@ -48,31 +47,31 @@ O **CírioApp** é um aplicativo de mapa interativo que permite aos fiéis e par
 lib/
 ├── core/
 │   └── constants/
-│       └── map_constants.dart      # Coordenadas e rotas (Basílica, Catedral, Círio, Trasladação)
+│       └── map_constants.dart      
 │
 ├── features/
 │   └── map/
 │       ├── models/
-│       │   └── evento_cirio.dart   # Modelo de dados do evento
+│       │   └── evento_cirio.dart   
 │       │
 │       ├── presentation/
 │       │   ├── pages/
-│       │   │   └── map_page.dart   # Tela principal do mapa
+│       │   │   └── map_page.dart  
 │       │   │
 │       │   └── widgets/
-│       │       ├── center_map_button.dart    # Botão de centralização
-│       │       └── map_toggle_button.dart    # Toggle entre rotas
+│       │       ├── center_map_button.dart   
+│       │       └── map_toggle_button.dart
 │       │
 │       └── services/
-│           └── location_service.dart         # Serviço de geolocalização
+│           └── location_service.dart
 │
-└── main.dart                       # Ponto de entrada da aplicação
+└── main.dart                       
 
 android/
 └── app/
     └── src/
         └── main/
-            └── AndroidManifest.xml # Configurações e permissões Android
+            └── AndroidManifest.xml 
 ```
 
 ---
@@ -92,11 +91,8 @@ android/
 ## Como Executar
 
 ### Pré-requisitos
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) `^3.11.1` ou superior
-- Android Studio ou VS Code com extensões Flutter/Dart
+- Flutter SDK `^3.11.1` ou superior
 - Chave de API do [Google Maps Platform](https://developers.google.com/maps) configurada no `AndroidManifest.xml`
-- Dispositivo físico ou emulador Android/iOS
 
 ### Passo a passo
 
