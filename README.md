@@ -12,7 +12,7 @@
 ## Demonstração
 
 <p align="left">
-  <img width="300" alt="CírioApp Demo" src="https://github.com/lianeheidemann/Aplicativo_CirioDeNazare/blob/main/AppCirio_GIF.gif" />
+  <img width="300" alt="CírioApp Demo" src="https://github.com/lianeheidemann/Aplicativo_CirioDeNazare/blob/main/AppCirio_GIF.gif"  width="80%"/>
 </p>
 
 ---
